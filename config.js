@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Bonjour!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Bonsoir,',
-  greetingNight: 'T'irais pas dormir?',
+  greetingNight: '?',
 
   // Weather
   weatherKey: '296a3d1be35658e8edc1ccbaef07c464',
